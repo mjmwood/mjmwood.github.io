@@ -1,0 +1,8 @@
+---
+title: "My First Post"
+date: 2025-10-12
+format: html
+categories: [intro]
+---
+
+This is my very first blog post written with Quarto + R.
