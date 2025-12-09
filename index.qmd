@@ -1,13 +1,9 @@
 ---
-title: "blog"
+title: "Would Maria do that?"
 ---
 
-This is a Quarto website.
+Yes, Maria Wood.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars, transport, politics, life, etc. 
 
-```{r}
-1 + 1
-```
-
-[Read the blog](/blog/)
+[Check out the blog here](/blog/)
