@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+Hi, I'm Maria and I'm a PhD student at [CASA UCL](https://www.ucl.ac.uk/bartlett/casa) in the [City Modelling Lab](https://citymodellinglab.uk/).
 
-```{r}
-1 + 1
-```
+I'm studying the social and spatial inequalities in transport, especially in the context of the UK's EV transition and I have a particular focus on car dependence. I have a particularly strong (negative) feeling towards SUVs in cities. In former lives I played classical flute, got my master's in physics and worked as an energy consultant in a Big Company. In current and parallel lives I'm a (very) amateur forager, nature enthusiast, vegan, and climate activist. Vom.

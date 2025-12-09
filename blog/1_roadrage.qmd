@@ -1,0 +1,9 @@
+---
+title: "1: Road rage ain't just for cars"
+date: 2025-12-09
+format: html
+categories: [cars]
+---
+
+"Get out the effing road!".
+

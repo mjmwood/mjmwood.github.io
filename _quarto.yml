@@ -3,11 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "My Quarto Blog"
+  title: "Would Maria Do That?"
   navbar:
     right:
+      - text: "Home" 
+        href: index.html
+      - text: "About" 
+        href: about.qmd
       - text: "Blog" 
         href: blog/index.html
+      - text: "Publications" 
+        href: publications.qmd
+      - text: "![](/orcid-svgrepo-com.svg){height=1em style='vertical-align: middle;'}"
+        href: https://orcid.org/0009-0009-2400-4907
+      - text: "![](/bluesky.svg){height=1em style='vertical-align: middle;'}"
+        href: https://bsky.app/profile/mariawood.bsky.social 
+      - text: "![](/linkedin.svg){height=1em style='vertical-align: middle;'}"
+        href: https://www.linkedin.com/in/maria-wood-12494a155/
+
 
 format:
   html:

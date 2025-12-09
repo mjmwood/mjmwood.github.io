@@ -4,6 +4,8 @@ title: "Would Maria do that?"
 
 Yes, Maria Wood.
 
-Welcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars, transport, politics, life, etc. 
+Welcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars and transport, climate, politics, life, etc. Sometimes the takes are hot, sometimes they are tepid. It's a temperature roulette in here.
+
+I promise that the aesthetics of this site are in progress. But it's what's on the inside that counts, right?
 
 [Check out the blog here](/blog/)
