@@ -1,58 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Would Maria do that?",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Yes, Maria Wood.\nWelcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars and transport, climate, politics, life, etc. Sometimes the takes are hot, sometimes they are exceptionally mild. It’s a temperature roulette in here.\nI promise that the aesthetics of this site are in progress. But it’s what’s on the inside that counts, right?\nCheck out the blog here"
+    "text": "Here will be a list of papers I’ve published via journals (outside of this blog). None yet…"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "All blog posts",
     "section": "",
-    "text": "All blog posts, ordered in descending order by date published.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1: Road rage ain’t just for cars\n\n\n\n\n\n\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Post - test\n\n\n\n\n\n\n\n\nOct 12, 2025\n\n\n\n\n\nNo matching items"
+    "text": "All blog posts, ordered in descending order by date published.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1: Road rage ain’t just for cars\n\n\n\n\n\n\n\n\nDec 9, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Maria and I’m a PhD student at CASA UCL in the City Modelling Lab.\nI’m studying the social and spatial inequalities in transport, especially in the context of the UK’s EV transition and I have a particular focus on car dependence. I have a particularly strong (negative) feeling towards SUVs in cities. In former lives I played classical flute, got my master’s in physics and worked as an energy consultant in a Big Company. In current and parallel lives I’m a (very) amateur forager, nature enthusiast, vegan, and climate activist. Vom."
-  },
-  {
-    "objectID": "blog/sample_blog.html",
-    "href": "blog/sample_blog.html",
-    "title": "My First Post - test",
-    "section": "",
-    "text": "This is my very first blog post written with Quarto + R."
-  },
-  {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Here is a list of papers I’ve published via journals (outside of this blog)."
+    "text": "Hi, I’m Maria and I’m a PhD student at CASA UCL in the City Modelling Lab.\nI’m studying the social and spatial inequalities in transport, especially in the context of the UK’s EV transition and I have a particular focus on car dependence. I have a particularly strong (negative) feeling towards SUVs in cities. In former lives I played classical flute, got my master’s in physics and worked as an energy consultant in a Big Company. In current and parallel lives I’m a (very) amateur forager, nature enthusiast, vegan, and climate activist. Woof."
   },
   {
     "objectID": "blog/1_roadrage.html",
     "href": "blog/1_roadrage.html",
     "title": "1: Road rage ain’t just for cars",
     "section": "",
-    "text": "This is also my very first blog post written with Quarto + R."
+    "text": "“Get out the effing road!”."
   },
   {
-    "objectID": "blog/index.html#all-blog-posts-ordered-in-descending-order-by-date-published.",
-    "href": "blog/index.html#all-blog-posts-ordered-in-descending-order-by-date-published.",
-    "title": "All blog posts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Would Maria do that?",
     "section": "",
-    "text": ":::{#quarto-listing-pipeline .hidden} \\(e = mC^2\\)\n:::{.hidden render-id=“pipeline-listing-listing”}\n:::{.list .quarto-listing-default}\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 9, 2025\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2025\n\n\n\n\n:::\n\n\nNo matching items\n\n:::\n:::"
+    "text": "Yes, Maria Wood.\nWelcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars and transport, climate, politics, life, etc. Sometimes the takes are hot, sometimes they are quite tepid. It’s a temperature roulette in here.\nI promise that the aesthetics of this site are in progress. But it’s what’s on the inside that counts, right?\nCheck out the blog here"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "blog/1_luvmysuv.html",
+    "href": "blog/1_luvmysuv.html",
+    "title": "An ode to the SUV",
     "section": "",
-    "text": "Here is a list of papers I’ve published via journals (outside of this blog)."
+    "text": "i luv driving in my suv it’s my Cinderella carriage it’s so vast and huge and wonderful it won’t fit in my garage\ni luv driving in my suv i’m off-road all the time from kensington to richmond park the bus is just a crime\nI luv driving in my suv i’m way up high, so tall there’s kiddies playing in the way? can’t seem them, they’re too small!\ni luv driving in my suv spewing clouds of co2 cant find an XL parking space i’ll have to straddle two\ni luv driving in my suv its size is unimpeded perfect for these city streets where more [tank-sized cars are/ person-crushing’s/fatal strikes are] needed\ni luv driving in my suv it makes me look so wealthy! its called “conspicuous consumption” it’s shows my self esteem is healthy\ni luv driving in my suv i honk at cyclists loads! though please ignore the fuel efficiency or rate of wear to roads\ni luv driving in my suv i’d even drive electric so long as i can cruise and kill and keep my city streets dyspeptic"
   }
 ]
