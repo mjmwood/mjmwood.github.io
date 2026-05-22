@@ -5,6 +5,8 @@ format: html
 categories: [cars, poem, jokes]
 ---
 
+In the spirit of Valentine's Day, I write a poem about how much I ~~adore~~ abhor the SUV.
+
 i luv driving in my suv\
 it’s my Cinderella carriage\
 it’s so vast and huge and wonderful\
