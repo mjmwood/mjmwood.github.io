@@ -5,6 +5,6 @@ listing:
   contents: .
   sort: "date desc"
   type: default
+  categories: true
+  fields: [date, title, categories] 
 ---
-
-All blog posts, ordered in descending order by date published.

@@ -25,27 +25,69 @@
     "href": "blog/index.html",
     "title": "All blog posts",
     "section": "",
-    "text": "All blog posts, ordered in descending order by date published.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn ode to the SUV\n\n\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\nNo matching items"
+    "text": "No way(mo) out\n\n\n\ncars\n\nAVs\n\ncarbrain\n\n\n\n\n\n\nMay 30, 2026\n\n\n\n\n\n\n\nAn ode to the SUV\n\n\n\ncars\n\npoems\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/1_luvmysuv.html",
-    "href": "blog/1_luvmysuv.html",
-    "title": "An ode to the SUV",
+    "objectID": "blog/2_waymo.html",
+    "href": "blog/2_waymo.html",
+    "title": "No way(mo) out",
     "section": "",
-    "text": "In the spirit of Valentine’s Day, I write a poem about how much I adore abhor the SUV.\ni luv driving in my suv\nit’s my Cinderella carriage\nit’s so vast and huge and wonderful\nit won’t fit in my garage\n\ni luv driving in my suv\ni’m off-road all the time\nfrom kensington to richmond park\nthe bus is just a crime\n\nI luv driving in my suv\ni’m way up high, so tall\nthere’s kiddies playing in the way?\ncan’t seem them, they’re too small!\n\ni luv driving in my suv\nspewing clouds of CO2\ncant find an XL parking space\ni’ll have to straddle two\n\ni luv driving in my suv\nits size is unimpeded\nperfect for these city streets\nwhere more fatal strikes are needed\n\ni luv driving in my suv\nit makes me look so wealthy!\nits called “conspicuous consumption”\nit’s shows my self esteem is healthy\n\ni luv driving in my suv\ni honk at cyclists loads!\nthough please ignore the fuel efficiency\nor rate of wear to roads\n\ni luv driving in my suv\ni’d even drive electric\nso long as i can cruise and kill\nand keep my city streets dyspeptic"
+    "text": "Last week, the UK Government opened applications for companies to begin operating autonomous taxi, bus, and ride-hail services, with a view for customers to be able to begin using the services by the end of this year. Waymo’s distinctive white vehicles have been prowling the streets of London already for several months now, recently even without their safety drivers, as they map the streets. There’s a lot of understandable hype building around these futuristic cars. But I don’t think they;re the transportation panacea people might be expecting them to be."
+  },
+  {
+    "objectID": "blog/2_waymo.html#road-safety",
+    "href": "blog/2_waymo.html#road-safety",
+    "title": "No way(mo) out",
+    "section": "Road safety",
+    "text": "Road safety\nRoad safety is one of the most prominently cited benefits of autonomous vehicles (AVs). According to the DfT, 88% of all collisions are caused by human error, including “drink driving, speeding, tiredness and inattention”. It stands to reason that we could therefore eliminate the vast majorty of road collisions by using AVs. Moreover, Waymo’s own safety research, based on trials in the USA, show that using their AVs leads to a 92% decrease in collisions and a 82% decrease in serious injury caused by collisions.\nThese statistics are fantastic, and it cannot be denied that reducing road collisions is objectively a good thing. However, autonomous vehicles are not the only way to achieve this. It has been shown that reducing speed limits to 20mph significantly reduces rates of collisions and serious injury from collisionsl with studies reporting up to 20-60% reductions in injuries and fatalities across the UK. Moreover, reducing the bonnet height of cars is essential for reducing fatal collisions: one study found that a 10cm increase in bonnet height increases the risk of death to pedestrians and cyclists by 27%. With a car population that has bloated by over 16cm since 2010, such that children as old as 9 are invisible from the drivers seat, we should be urgently passing regulation to limit vehicle bonnet height.\nIgnoring these easy wins while embracing the hype of novelty robotaxis seems short sighted and symptomatic of deep-set car-brain. Reducing speeds and reducing bonnet heights are fast, simple, and sure-fire ways to reduce road collisions, and reducing the number of cars on the roads would go a step further again. After all, 100% of car collisions involve cars."
+  },
+  {
+    "objectID": "blog/2_waymo.html#sustainability",
+    "href": "blog/2_waymo.html#sustainability",
+    "title": "No way(mo) out",
+    "section": "Sustainability",
+    "text": "Sustainability\nWaymo’s website also discusses the green credentials of electric autonomous vehicles. Many argue that, since these electric vehicles are a shared fleet, they will be able to replace private car journeys and take other cars off the roads. This echoes remarkably well what was said about Uber coming to our streets several years ago. Yet, it was shown that Uber had no such effect, and in fact increased vehicle miles travelled as drivers circled cities waiting for their next fare and contributed greater emissions per trip overall. While Waymo have addressed this specifically, stating that they “limit empty miles” by ensuring unused vehicles will be directed to park or return to the distribution depot, there’s no convincing evidence that these measures will be effective (and where is there to park in central London!?). Though these new AVs are electric - thus definitively “sustainable” according to Waymo - these additional miles are hardly eco-friendly; all vehicles generatepollution from tires and brake pads, and heavier EVs are in fact the worst offenders.\nMoreover, the introduction of autonomous vehicles may deter cyclists from our streets. Cyclists are already vulnerable road users, with nearly half of cyclists feeling unsafe on the roads of London today, and concerns are being raised that they may be at greater risk with AVs on the roads. In particular, there have been reports of Waymo vehicles stopping and picking up passengers in bike lanes (as well as flagrantly breaking road rules); in 2026, Waymo allegedly announced that expecting their cars to respect cycle lanes was “too high a bar”.\nSurely, then, the better transport solution would reduce mileage, encourage cycling, and reduce pollution. This looks like fewer cars and a system oriented towards active travel and (electric) public transport instead; more cars cannot be the answer."
+  },
+  {
+    "objectID": "blog/2_waymo.html#traffic-efficiency",
+    "href": "blog/2_waymo.html#traffic-efficiency",
+    "title": "No way(mo) out",
+    "section": "Traffic efficiency",
+    "text": "Traffic efficiency\nSimilarly, we are promised that autonomous fleets will improve traffic efficiency by reducing human error in driving that leads to unnecessary congestion. This is achieved in several ways, such as reducing phantom traffic caused by human error or through connected vehicles communicating with each other in real-time to optimise traffic flow.\nThese positive effects on congestion of (connected) AVs have been studied widely and are well-documented (see here and here for examples). But, aside from the afore-mentioned empty miles issue, there is potential for (short-term) congestion increase due to induced demand (similar to what is a well-observed phenomenon with road widening). While some argue this temporary congestion increase will eventually subside as we magically overcome our love of private vehicles and shift to an entirely shared fleet of cars, I think we’re fundamentally looking to solve the wrong problem again. Instead of asking how we can reduce congestion given the transport system stays the same, we should be asking how do we reduce congestion altogether. At the end of the day, congestion comprises vehicles (you’re not IN traffic, you ARE traffic). Putting more cars on the road cannot remove congestion. Only reducing the number cars on the roads can do this."
+  },
+  {
+    "objectID": "blog/2_waymo.html#accessibility",
+    "href": "blog/2_waymo.html#accessibility",
+    "title": "No way(mo) out",
+    "section": "Accessibility",
+    "text": "Accessibility\nFinally, autonomous vehicles are praised for their accessibility credentials, and understandably so. Autonomous vehicles open up car use for those who previously were unable to drive, for example due to disability or age. These vehicles facilitate independent travel, where previously people relied heavily on insufficient public transport, asking favours from friends and family, or simply missing out.\nHowever, as it stands, AV offerings are not designed to help the most vulnerable. A Waymo spokesperson described fares as “competitive” but “premium”, indicating that trips in these vehicles will not be affordable for general everyday use. In the UK, the poverty rate for disabled people is consistently higher than non-disabled people and employment rates are significantly lower for disabled people (52.8% compared with 82.5% non-disabled people). With current ride-hailing app users found to be predominantly young, employed people, and middle-income young people the most likely to adopt shared AV use, we cannot assume that using robotaxis will be of great immediate benefit to the most vulnerable. Moreover, in 2024, only 11% of private hire vehicles in England were wheelchair accessible.\nIn fact, the introduction and popularisation of autonomous vehicles may exclude these most vulnerable members of society even more. As Giulio Mattioli describes: “the self-reinforcing cycle of car dependence results in an increasing intensity of car deprivation for a decreasing proportion of the population”. Those who do not drive and cannot afford a AV will be at even greater disadvantage as the ratchet of social car dependence tightens.\nClaiming to be a positive step for increasing transport accessibility is therefore, at best a premature and overly-optimistic assessment and at worst a co-opting of accessibility language to gain social credit. Means-tested pricing or subsidies for the most vulnerable may help to truly improve accessibility. But in general, more cars on the roads only deepens the core of the problem."
+  },
+  {
+    "objectID": "blog/2_waymo.html#final-thoughts",
+    "href": "blog/2_waymo.html#final-thoughts",
+    "title": "No way(mo) out",
+    "section": "Final thoughts",
+    "text": "Final thoughts\nYes, AVs are amazing technology and objectively cool. But we know better than to equate “cool” with “good”. To quote Paris Marx in his fantastic book: “addressing the inequities and harms of our world does not require the invention of new technologies; it requires a new politics that recognises economic growth and technological innovation do not guarantee social progress”.\nIn summary, I think we’ve lost sight of what the true goal is. We should not be asking if AVs on the roads will improve certain elements of driving. We should be asking how to meaningfully improve people’s lives through fairer, more accessible, and more equitable transport. Improving the way we use cars is a tiny reform of the existing system. We need a transport revolution.S"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Maria and I’m a PhD student at CASA UCL in the City Modelling Lab.\nI’m studying the social and spatial inequalities in transport, especially in the context of the UK’s EV transition and I have a particular focus on car dependence. I have a particularly strong (negative) feeling towards SUVs in cities. In former lives I played classical flute, got my master’s in physics and worked as an energy consultant in a Big Company. In current and parallel lives I’m a (very) amateur forager, nature enthusiast, vegan, and climate activist. Woof."
+    "text": "Hi, I’m Maria and I’m a PhD student at CASA UCL in the City Modelling Lab.\nI’m studying the social and spatial inequalities in transport, especially in the context of the UK’s EV transition through the twin climate and inequality crises. I have a particular focus on car dependence and transport flexibility. I have a particularly strong (negative) feeling towards SUVs in cities. In former lives I played classical flute, studied physics and worked as an energy consultant in a Big Company. In current life I’m a (very) amateur forager, nature enthusiast, climate activist, cryptic crossworder and vegan baked goods enjoyer."
+  },
+  {
+    "objectID": "blog/1_luvmysuv.html",
+    "href": "blog/1_luvmysuv.html",
+    "title": "An ode to the SUV",
+    "section": "",
+    "text": "In the spirit of Valentine’s Day, I wrote a poem about how much I adore abhor the SUV.\ni luv driving in my suv\nit’s my Cinderella carriage\nit’s so vast and huge and wonderful\nit won’t fit in my garage\n\ni luv driving in my suv\ni’m off-road all the time\nfrom kensington to richmond park\nthe bus is just a crime\n\nI luv driving in my suv\ni’m way up high, so tall\nthere’s kiddies playing in the way?\ncan’t seem them, they’re too small!\n\ni luv driving in my suv\nspewing clouds of CO2\ncan’t find an XL parking space\ni’ll have to straddle two\n\ni luv driving in my suv\nits size is unimpeded\nperfect for these city streets\nwhere more fatal strikes are needed\n\ni luv driving in my suv\nit makes me look so wealthy!\nits called “conspicuous consumption”\nit’s shows my self esteem is healthy\n\ni luv driving in my suv\ni honk at cyclists loads!\nthough please ignore the fuel efficiency\nor rate of wear to roads\n\ni luv driving in my suv\ni’d even drive electric\nso long as i can cruise and kill\nand keep my city streets dyspeptic"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Would Maria do that?",
     "section": "",
-    "text": "Yes, Maria Wood.\nWelcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars and transport, climate, politics, life, etc. Sometimes the takes are hot, sometimes they are quite tepid. It’s a temperature roulette in here.\nI promise that the aesthetics of this site are in progress. But it’s what’s on the inside that counts, right?\nCheck out the blog here"
+    "text": "Yes, Maria Wood.\nWelcome to my informal and poorly maintained blog where I, Maria, occasionally write about things I care about including cars and transport, climate, politics, and life.\nDisclaimer: the aesthetics of this site are in progress.\nCheck out the blog here"
   }
 ]
