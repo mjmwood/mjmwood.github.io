@@ -3,6 +3,7 @@ title: "An ode to the SUV"
 date: 2026-02-14
 format: html
 categories: [cars, poems]
+draft: true 
 ---
 
 In the spirit of Valentine's Day, I wrote a poem about how much I ~~adore~~ abhor the SUV.
