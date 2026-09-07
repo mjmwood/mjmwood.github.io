@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>All blog posts – Would Maria Do That?</title>
+<title>Plane Wrong: reflections on academic air travel – Would Maria Do That?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -70,65 +68,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -159,7 +99,7 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -193,15 +133,15 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QVZz">AVs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2FyYnJhaW4=">carbrain <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y2Fycw==">cars <span class="quarto-category-count">(2)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">All blog posts</h1>
+<h1 class="title">Plane Wrong: reflections on academic air travel</h1>
 </div>
 
 
@@ -218,70 +158,43 @@ window.Quarto = {
 </header>
 
 
+<p>As I write this, I’m sitting in my 5th-floor hotel room in the 11th arrondissement of Paris. I’ve just completed the first leg of my rail trip to Portugal for the European Transport Conference where I’m presenting my <a href="https://mjmwood.github.io/presentations.html">work on quantifying transport flexibility</a> after which I’ll travel by rail again to Brussels for the Third International Conference on Clean Mobility and Energy. Both conferences back-to-back by rail take the best part of 2 weeks, and adding on a personal trip and another academic visit to Switzerland takes me up to 3 weeks of inter-European rail fun.</p>
+<p>When I tell people about my plans to travel to these events by rail, I usually get one of two responses:</p>
+<ol type="1">
+<li><p>Cool! That’s really exciting!</p></li>
+<li><p>Why the heck don’t you just fly?</p></li>
+</ol>
+<p>Response 2 is, honestly, the more immediately logical response. Instead of a quick 2-3 hour flight London-Porto, the rail journey spans three days with overnight stops in Paris and Madrid, totalling ~20 hours in a train (or coach). One way, it costs ~4x more than flying (including accommodation en route – likely an underestimate as this was evaluated using last-minute flight prices)<sup>1</sup>.</p>
+<p>My reason for travelling by rail is the environment. Flying is one of the most carbon-intensive activities a person can undertake; one-way London-Porto emits ~260 kgCO2e which is approximately equal to the average annual emissions for a person living in Afghanistan [1, 2]. On the other hand, emissions from rail are vanishingly small. Most rail in Europe (including the high-speed lines that span London - Paris - Barcelona - Madrid) are fully electrified with much of the energy sourced from renewables. As a result, a quick back-of-the-envelope calculation estimates that the same trip by rail and coach emits approximately 23kgCO2e - a whopping reduction of over 90%<sup>2</sup>!</p>
+<p>As a PhD student researching sustainable transport, flying to two conferences that focus on sustainable transport would generate simply unfathomable levels of irony.</p>
+<p>Nevertheless, despite having the willingness, time, and an earmarked conference fund that I had saved over the past 3 years for this express purpose, I found it surprisingly difficult to have the travel funding approved. Since I was not travelling by the “conventional” route I was asked to provide a written statement justifying my request. In researching UCL policy to provide my justifications, I learned that UCL actually has a series of targets and schemes pointing exactly towards flight-free travel (though not in so many words). Among targets to be net zero emissions (scopes 1, 2, and 3 – including academic travel) by 2040, specific policies include:</p>
+<ul>
+<li><p>Requirements to “seek low carbon alternatives” to travel (Travel Policy, §2.3.1).</p></li>
+<li><p>Hierarchy of travel options ranks the airplane as the least preferred mode of transport, below rail and car (Travel Policy, §2.3.2).</p></li>
+<li><p>Staff and students “should always try to select the most carbon-efficient way of reaching a destination,” and this “may not necessarily be the cheapest” (Travel Policy, §3, para. 3).</p></li>
+<li><p>Staff should select the most sustainable option “even if this is not always the cheapest option” (Expenses Policy, §3.5.1).</p></li>
+</ul>
+<p>These policies have earned UCL the UK’s #1 most sustainable university and #3 in the world [3]. Impressive, but surely meaningless if not implemented. In the year 2024-2025, academic travel accounted for 14% of all scope 1, 2, and 3 emissions from UCL remaining one of the largest remaining sources of carbon, after natural gas use (!) and purchased goods and services [4]. I’m shocked, therefore, that more concrete schemes are not in place to encourage low-carbon academic travel, especially within Europe. While London-Porto by rail is admittedly on the more ‘adventurous’ end of rail travel, and thus may be less obviously possible flight-free, there is equally no formal guardrail to stop someone travelling by air to Brussels (a direct 2-hour Eurostar train). A policy that employs a graduated system, based on travel time and carbon saving for example, could be implemented to ensure air travel is limited to only where strictly necessary<sup>3</sup>. Support with itinerary planning should be offered to reduce the large and often overwhelming mental load that complex multi-leg journeys bring. Rather than needing to provide justification for non-air travel, the default should be assumed rail and special permission sought for air travel instead.</p>
+<p>I fully acknowledge that most individuals are not able to quadruple the cost of their trips or take several extra days of holiday from work; this article is absolutely not aimed at any individuals who fly to their holiday destinations. It is well established that the current political, financial, and regulatory landscape renders personal sustainable travel a luxury [5]. However, within academia, universities should be setting an example and pushing against air travel more strongly. There is rich precedent for universities leading change throughout history, from students leading protests for social change (from May `68 to protests against the genocide in Gaza) to institutional fossil fuel divestment [6], and they should continue to use their influence, privilege, and money to instigate positive change including the de-normalization of frequent short-haul air travel.</p>
+<p><u>Footnotes</u></p>
+<p><sup>1</sup> The difference could be up to 7x if taking the most budget flight I could find. The entire round trip is slightly more complicated as it compares two separate return flights to each conference while the rail route comprises one long trip.</p>
+<p><sup>2</sup> My basic calculations to reach these values are available on request</p>
+<p><sup>3</sup> See references 7 - 10 for further discussions over whether academic air travel and whether it truly is essential</p>
+<p><u>References</u></p>
+<p>[1] ClarityGo carbon estimate for my specific trip. ClarityGo is the travel booking application used by UCL for academic travel</p>
+<p>[2] Global Carbon Budget (2025); Population based on various sources (2024) – with major processing by Our World in Data. “CO₂ emissions per capita” [dataset]. Global Carbon Project, “Global Carbon Budget v15”; Various sources, “Population” [original data]. Retrieved September 7, 2026 from <a href="https://archive.ourworldindata.org/20260807-075129/grapher/co-emissions-per-capita.html" class="uri">https://archive.ourworldindata.org/20260807-075129/grapher/co-emissions-per-capita.html</a> (archived on August 7, 2026).</p>
+<p>[3] UCL News (2025). ‘UCL ranks 1st in the UK and 3rd globally in QS Sustainability Rankings’, 18 November. Available at: <a href="https://www.ucl.ac.uk/news/2025/nov/ucl-ranks-1st-uk-and-3rd-globally-qs-sustainability-rankings" class="uri">https://www.ucl.ac.uk/news/2025/nov/ucl-ranks-1st-uk-and-3rd-globally-qs-sustainability-rankings</a></p>
+<p>[4] UCL (2025). <em>Annual Sustainability Report 2024–2025</em>. Available at: <a href="https://www.ucl.ac.uk/sustainable/sites/sustainable/files/annual_sustainability_report_undesigned_version_2024-25.pdf" class="uri">https://www.ucl.ac.uk/sustainable/sites/sustainable/files/annual_sustainability_report_undesigned_version_2024-25.pdf</a></p>
+<p>[5] Zamora, J. (2025). ‘3 Reasons why flights are far cheaper than trains and why that has to change’. <em>Greenpeace International</em>, 27 August. Available at: <a href="https://www.greenpeace.org/international/story/78154/3-reasons-why-flights-are-far-cheaper-than-trains-and-why-that-has-to-change/" class="uri">https://www.greenpeace.org/international/story/78154/3-reasons-why-flights-are-far-cheaper-than-trains-and-why-that-has-to-change/</a></p>
+<p>[6] Ellis, R. (2024). ‘Global university fossil fuel divestment “nearing tipping point”’. <em>Times Higher Education</em>, 12 June. Available at: <a href="https://www.timeshighereducation.com/depth/global-university-fossil-fuel-divestment-nearing-tipping-point" class="uri">https://www.timeshighereducation.com/depth/global-university-fossil-fuel-divestment-nearing-tipping-point</a></p>
+<p>[7] Görlinger, S., Merrem, C., Jungmann, M.&nbsp;<em>et al.</em>&nbsp;An evidence-based approach to accelerate flight reduction in academia.&nbsp;<em>npj Clim. Action</em>&nbsp;<strong>2</strong>, 41 (2023). <a href="https://doi.org/10.1038/s44168-023-00069-y" class="uri">https://doi.org/10.1038/s44168-023-00069-y</a></p>
+<p>[8] Nevins, J., Allen, S., &amp; Watson, M. (2021). A path to decolonization? Reducing air travel and resource consumption in higher education.&nbsp;<em>Travel Behaviour and Society</em>,&nbsp;<em>26</em>, 231–239.&nbsp;<a href="https://doi.org/" class="uri">https://doi.org/</a><a href="https://doi.org/10.1016/j.tbs.2021.09.012">10.1016/j.tbs.2021.09.012</a></p>
+<p>[9] Büchs, M. (2019). ‘University sector must tackle air travel emissions’. <em>The Conversation</em>, 2 July. Available at: <a href="https://theconversation.com/university-sector-must-tackle-air-travel-emissions-118929" class="uri">https://theconversation.com/university-sector-must-tackle-air-travel-emissions-118929</a></p>
+<p>[10] de Vos, J., Hopkins, D., Hickman, R., &amp; Schwanen, T. (2024). Tackling the academic air travel dependency. An analysis of the (in)consistency between academics’ travel behaviour and their attitudes. <em>Global Environmental Change</em>, <em>88</em>, 102908. <a href="https://doi.org/10.1016/j.gloenvcha.2024.102908" class="uri">https://doi.org/10.1016/j.gloenvcha.2024.102908</a></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1788818467075" data-listing-reading-time-sort="6" data-listing-word-count-sort="1147">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blog/flight-free-academia.html" class="no-external">Plane Wrong: reflections on academic air travel</a>
-</h3>
-</div>
-<div class="metadata">
-<a href="../blog/flight-free-academia.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y2FycyUyQ2NhcmJyYWlu" data-listing-date-sort="1784152800000" data-listing-file-modified-sort="1784209811416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1605">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blog/car-freedom.html" class="no-external">Driving free: a short story</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2Fycw=='); return false;">cars</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FyYnJhaW4='); return false;">carbrain</div>
-
-</div>
-</div>
-<div class="metadata">
-<a href="../blog/car-freedom.html" class="no-external">
-<div class="listing-date">
-Jul 16, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Y2FycyUyQ0FWcyUyQ2NhcmJyYWlu" data-listing-date-sort="1780092000000" data-listing-file-modified-sort="1788559382656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1302">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blog/no-waymo-out.html" class="no-external">No way(mo) out</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2Fycw=='); return false;">cars</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QVZz'); return false;">AVs</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FyYnJhaW4='); return false;">carbrain</div>
-
-</div>
-</div>
-<div class="metadata">
-<a href="../blog/no-waymo-out.html" class="no-external">
-<div class="listing-date">
-May 30, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
