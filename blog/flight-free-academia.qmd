@@ -1,6 +1,9 @@
 ---
 title: "Plane Wrong: reflections on academic air travel"
+date: 2026-09-08
 format: html
+categories: [flight-free travel, academia]
+draft: false 
 ---
 
 As I write this, I’m sitting in my 5th-floor hotel room in the 11th arrondissement of Paris. I’ve just completed the first leg of my rail trip to Portugal for the European Transport Conference where I’m presenting my [work on quantifying transport flexibility](https://mjmwood.github.io/presentations.html) after which I’ll travel by rail again to Brussels for the Third International Conference on Clean Mobility and Energy. Both conferences back-to-back by rail take the best part of 2 weeks, and adding on a personal trip and another academic visit to Switzerland takes me up to 3 weeks of inter-European rail fun.
