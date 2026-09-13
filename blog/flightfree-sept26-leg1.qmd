@@ -1,0 +1,29 @@
+---
+title: "flight-free-sept26-leg1"
+format: html
+draft: true
+---
+
+some heading text overall
+
+::: {#travel-stages .panel-tabset}
+some text for the tabs
+
+# Step 1: London - Paris
+
+some tect for step 1 of tab
+
+# Step 2a: Paris - Barcelona
+
+tab 2a
+
+# Step 2b: Barcelona - Madrid 
+
+tab 2b
+
+# Step 3: Madrid - Porto
+
+tab 3
+:::
+
+some more tex tafter tge tabs

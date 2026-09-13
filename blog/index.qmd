@@ -2,9 +2,15 @@
 title: "All blog posts"
 format: html
 listing:
+  id: blog-posts
   contents: .
   sort: "date desc"
   type: default
   categories: true
   fields: [date, title, categories] 
 ---
+
+::: {#blog-posts}
+:::
+
+<!-- {{< include _subscirbe.html >}} -->
