@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Would Maria Do That?"
+  draft-mode: gone
   navbar:
     right:
       - text: "Home" 
