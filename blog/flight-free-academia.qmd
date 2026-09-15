@@ -6,7 +6,7 @@ categories: [flight-free travel, academia]
 draft: false 
 ---
 
-As I write this, I’m sitting in my 5th-floor hotel room in the 11th arrondissement of Paris. I’ve just completed the first leg of my rail trip to Portugal for the European Transport Conference where I’m presenting my [work on quantifying transport flexibility](https://mjmwood.github.io/presentations.html) after which I’ll travel by rail again to Brussels for the Third International Conference on Clean Mobility and Energy. Both conferences back-to-back by rail take the best part of 2 weeks, and adding on a personal trip and another academic visit to Switzerland takes me up to 3 weeks of inter-European rail fun.
+As I write this, I’m sitting in my 5th-floor hotel room in the 11th arrondissement of Paris. I’ve just completed the first leg of my rail trip to Portugal for the European Transport Conference where I’m presenting my [work on quantifying transport flexibility](https://mjmwood.github.io/presentations.html) after which I’ll travel by rail again to Brussels for the Third International Conference on Climate, Mobility, and Energy. Both conferences back-to-back by rail take the best part of 2 weeks, and adding on a personal trip and another academic visit to Switzerland takes me up to 3 weeks of inter-European rail fun.
 
 When I tell people about my plans to travel to these events by rail, I usually get one of two responses:
 
@@ -64,4 +64,3 @@ I fully acknowledge that most individuals are not able to quadruple the cost of 
 
 \[10\] de Vos, J., Hopkins, D., Hickman, R., & Schwanen, T. (2024). Tackling the academic air travel dependency. An analysis of the (in)consistency between academics’ travel behaviour and their attitudes. *Global Environmental Change*, *88*, 102908. <https://doi.org/10.1016/j.gloenvcha.2024.102908>\
 \
-

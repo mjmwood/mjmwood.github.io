@@ -1,1 +1,2 @@
-   include-after-body: _subscirbe.html
+   # include-after-body: _subscirbe.html
+include-after-body: _subscribe_holder.html
