@@ -49,7 +49,7 @@ My route across Europe for anyone interested (mainly a georeferenced map making 
 
 # Trip 3: Ghent - Bologna
 
-:::::::: {layout-ncol="2"}
+::::: {layout-ncol="2"}
 ::: {.column width="70%"}
 ![Route from Ghent to Bologna by rail](../pictures/ghentbologna.jpeg)
 :::
@@ -59,7 +59,7 @@ My route across Europe for anyone interested (mainly a georeferenced map making 
 
 -   Day 1: Ghent - Bologna via Brussels, Cologne, Zurich, and Milan^2^
 :::
-
+:::::
 # Trip 4: Bologna - London
 
 ::::: {layout-ncol="2"}
