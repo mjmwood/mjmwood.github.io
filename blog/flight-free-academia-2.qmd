@@ -59,7 +59,9 @@ My route across Europe for anyone interested (mainly a georeferenced map making 
 
 -   Day 1: Ghent - Bologna via Brussels, Cologne, Zurich, and Milan^2^
 :::
+
 :::::
+
 # Trip 4: Bologna - London
 
 ::::: {layout-ncol="2"}
@@ -75,7 +77,7 @@ My route across Europe for anyone interested (mainly a georeferenced map making 
 -   Day 2: Zurich - London via Paris
 :::
 :::::
-
+:::::::::::::::
 In summary: all went well. I reached all of my destinations (more or less) on time, missed no connections, and somehow managed to have booked tickets for the correct dates and times for every trip. While each train and station were different, they weren’t that different, and I really can’t justify an entire post comparing the details of the wifi speeds or station toilet paper ply. Instead, I want to reflect on my perception of travelling by rail and how it compares to air travel. Since I’ve already covered the details of carbon emissions and cost (briefly) [in a previous article](https://mjmwood.github.io/blog/flight-free-academia.html), forgive my more abstract experience-based discussion here.
 
 I am acutely aware that most of us are usually bound by time constraints and/or financial barriers which mean that flying is the only feasible option for an international trip. But just for a moment I want to suspend disbelief and imagine a world where we are not bound by these artificial restrictions, where we have the time to enjoy life, the freedom to escape our responsibilities, and where sustainable transport is actually affordable.
@@ -93,5 +95,4 @@ I realised that I actually think it’s okay if a long distance journey takes a 
 ^1^ Trains into Portugal are surprisingly difficult and long-winded, at least in part because of a different rail gauge in parts of Spain and Portugal. From experience, if you can stomach an 8-hour coach journey, it's far less hassle than the multiple trains you need to take via northern Spain to get to Porto
 
 ^2^ There's usually an amazing high-speed rail link direct Paris - Milan. Unfortunately it was closed for engineering works in September :(
-::::::::
-:::::::::::::::
+
